@@ -1,4 +1,4 @@
-# $\text{D}^2\text{Controller}$
+# D2Controller
 
 ## Environment Setup
 Create a new virtual environment with `Python==3.9.16`
