@@ -48,7 +48,7 @@ bash scripts/do_preprocess.sh
 ### Run ICL
 To obtain results on validation set, run script `run_icl.sh`
 ```
-bash run_icl.sh
+bash scripts/run_icl.sh
 ```
 
 ### Select k-shot setting
