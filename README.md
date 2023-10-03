@@ -42,14 +42,12 @@ To obtain results on validation set, run script `run_icl.sh`
 ```
 bash run_icl.sh
 ```
-Notice that you should allocate names and directories for datasets and models in the script.
 
 ### Select k-shot setting
 To obtain selected $k$-shot settings, run script `run_selectk.sh`
 ```
 bash run_selectk.sh
 ```
-Notice that you should allocate names and directories for datasets and models in the script.
 
 For OPT-30B model, we use script `run_selectk_multi.sh` to obtain results
 ```
