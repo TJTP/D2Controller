@@ -1,4 +1,8 @@
+<div align=center><img src="logo.jpg" style="zoom:50%;" /></div>
+
 # D2Controller
+Released code for our paper: [Dynamic Demonstrations Controller for In-Context Learning](https://arxiv.org/abs/2310.00385)
+
 
 ## Environment Setup
 Create a new virtual environment with `Python==3.9.16`
@@ -56,3 +60,15 @@ bash run_selectk_multi.sh
 
 ## GPT-3
 We will release the code and scripts for GPT-3 later.
+
+## Citation
+```
+@misc{zhao2023dynamic,
+      title={Dynamic Demonstrations Controller for In-Context Learning}, 
+      author={Fei Zhao and Taotian Pang and Zhen Wu and Zheng Ma and Shujian Huang and Xinyu Dai},
+      year={2023},
+      eprint={2310.00385},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
