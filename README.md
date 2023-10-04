@@ -1,8 +1,14 @@
-<div align=center><img src="logo.jpg" style="zoom:50%;" /></div>
-
 # D2Controller
-Released code for our paper: [Dynamic Demonstrations Controller for In-Context Learning](https://arxiv.org/abs/2310.00385)
+Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](https://arxiv.org/abs/2310.00385)"
 
+<!-- ## Overview
+
+<img src="figs/D2Controller.png" style="width:200px height:300px" />
+
+- We comprehensively analyze the effects of the number of demonstrations on ICL performance under a limited input length of LLM, and find that the number of demonstrations may not necessarily be positively correlated with model performance.
+
+- We propose a method named D2Controller, which not only boosts ICL performance but also
+saves time and space during inference of the LLMs. -->
 
 ## Environment Setup
 Create a new virtual environment with `Python==3.9.16`
@@ -32,25 +38,23 @@ llm/
       ...
   ...
 ```
-# Running Code
+## Running Code
 ### Preprocess 
 run the bash script `do_preprocess.sh` to transform original dataset files
 ```
-bash do_preprocess.sh
+bash scripts/do_preprocess.sh
 ```
-
 
 
 ### Select k-shot setting
 To obtain selected $k$-shot settings, run the script `run_selectk.sh`
 ```
-bash run_selectk.sh
+bash scripts/run_selectk.sh
 ```
-Notice that you should allocate names and directories for datasets and models in the script.
 
 For OPT-30B model, we use the script `run_selectk_multi.sh` to obtain results
 ```
-bash run_selectk_multi.sh
+bash scripts/run_selectk_multi.sh
 ```
 Notice that you should allocate names and directories for datasets and models in the script.
 
