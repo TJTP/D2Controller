@@ -61,7 +61,7 @@ Notice that you should allocate names and directories for datasets and models in
 ### Find Oracle k-shot setting
 To obtain *Oracle* k-shot setting on validation set, run the script `run_oracle_k.sh`
 ```
-bash run_oracle_k.sh
+bash scripts/run_oracle_k.sh
 ```
 
 ### Obtain ICL results
