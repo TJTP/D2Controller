@@ -67,7 +67,7 @@ bash scripts/run_oracle_k.sh
 ### Obtain ICL results
 To obtain ICL results on each k-shot setting, run the script `run_icl.sh`
 ```
-bash run_icl.sh
+bash scripts/run_icl.sh
 ```
 
 
