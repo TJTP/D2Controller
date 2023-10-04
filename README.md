@@ -39,24 +39,33 @@ run the bash script `do_preprocess.sh` to transform original dataset files
 bash do_preprocess.sh
 ```
 
-### Run ICL
-To obtain results on validation set, run script `run_icl.sh`
-```
-bash run_icl.sh
-```
-Notice that you should allocate names and directories for datasets and models in the script.
+
 
 ### Select k-shot setting
-To obtain selected $k$-shot settings, run script `run_selectk.sh`
+To obtain selected $k$-shot settings, run the script `run_selectk.sh`
 ```
 bash run_selectk.sh
 ```
 Notice that you should allocate names and directories for datasets and models in the script.
 
-For OPT-30B model, we use script `run_selectk_multi.sh` to obtain results
+For OPT-30B model, we use the script `run_selectk_multi.sh` to obtain results
 ```
 bash run_selectk_multi.sh
 ```
+Notice that you should allocate names and directories for datasets and models in the script.
+
+### Find Oracle k-shot setting
+To obtain *Oracle* k-shot setting on validation set, run the script `run_oracle_k.sh`
+```
+bash run_oracle_k.sh
+```
+
+### Obtain ICL results
+To obtain ICL results on each k-shot setting, run the script `run_icl.sh`
+```
+bash run_icl.sh
+```
+
 
 ## GPT-3
 We will release the code and scripts for GPT-3 later.
