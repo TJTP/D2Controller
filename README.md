@@ -1,16 +1,15 @@
 # D2Controller
 
-Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](https://arxiv.org/abs/2310.00385)".
-
-## Overview
-
 <div align="center">
-
-In this paper, we comprehensively analyze the effects of the number of demonstrations on ICL performance under a limited input length of LLM, and find that the number of demonstrations may not necessarily be positively correlated with model performance. Based on these analysis, we propose a method named D2Controller, which not only boosts ICL performance but also saves time and space during inference of the LLMs.
+Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](https://arxiv.org/abs/2310.00385)".
 
 <img src="figs/D2Controller.png" width="700px">
 
 </div>
+
+- In this paper, we find that the number of demonstrations may not necessarily be positively correlated with model performance.
+- We propose a method named D2Controller, which not only boosts ICL performance but also saves time and space during inference of the LLMs.
+
 
 ## Environment Setup
 Create a new virtual environment with `Python==3.9.16`
