@@ -75,7 +75,9 @@ bash scripts/run_icl.sh
 We will release the code and scripts for GPT-3 later.
 
 ## Citation
-```
+If you find this helpful, please cite our paper.
+
+```bash
 @misc{zhao2023dynamic,
       title={Dynamic Demonstrations Controller for In-Context Learning}, 
       author={Fei Zhao and Taotian Pang and Zhen Wu and Zheng Ma and Shujian Huang and Xinyu Dai},
