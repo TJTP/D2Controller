@@ -2,10 +2,7 @@
 
 Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](https://arxiv.org/abs/2310.00385)"
 
-
-## Overview
-
-<img src="figs/D2Controller.png" style="width:200px height:300px" />
+<div align="center"><img src="figs/D2Controller.png"width="200px"></div>
 
 - We comprehensively analyze the effects of the number of demonstrations on ICL performance under a limited input length of LLM, and find that the number of demonstrations may not necessarily be positively correlated with model performance.
 
