@@ -1,6 +1,11 @@
 # D2Controller
 Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](https://arxiv.org/abs/2310.00385)"
 
+<div align="center">
+<img src="figs/logo.jpg" width="150px">
+
+</div>
+
 <!-- ## Overview
 
 <img src="figs/D2Controller.png" style="width:200px height:300px" />
