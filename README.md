@@ -8,7 +8,7 @@ Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](h
 
 In this paper, we comprehensively analyze the effects of the number of demonstrations on ICL performance under a limited input length of LLM, and find that the number of demonstrations may not necessarily be positively correlated with model performance. Based on these analysis, we propose a method named D2Controller, which not only boosts ICL performance but also saves time and space during inference of the LLMs.
 
-<img src="figs/D2Controller.png"width="700px">
+<img src="figs/D2Controller.png" width="700px">
 
 </div>
 
