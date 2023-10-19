@@ -1,10 +1,10 @@
 # D2Controller
 
-<div align="center">
 Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](https://arxiv.org/abs/2310.00385)".
 
+## Overview
+<div align="center">
 <img src="figs/D2Controller.png" width="700px">
-
 </div>
 
 - In this paper, we find that the number of demonstrations may not necessarily be positively correlated with model performance.
