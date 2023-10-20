@@ -58,18 +58,18 @@ bash scripts/run_selectk_multi.sh
 ```
 Notice that you should allocate names and directories for datasets and models in the script.
 
+
+### Obtain ICL results
+To obtain ICL results based on the select k-shot setting, run the script `run_icl.sh`
+```
+bash scripts/run_icl.sh
+```
+
 ### Find Oracle k-shot setting
 To obtain *Oracle* k-shot setting on validation set, run the script `run_oracle_k.sh`
 ```
 bash scripts/run_oracle_k.sh
 ```
-
-### Obtain ICL results
-To obtain ICL results on each k-shot setting, run the script `run_icl.sh`
-```
-bash scripts/run_icl.sh
-```
-
 
 ## GPT-3
 We will release the code and scripts for GPT-3 later.
