@@ -46,7 +46,7 @@ bash scripts/do_preprocess.sh
 ```
 
 
-### Select k-shot setting
+### Select $k$-shot setting
 To obtain selected $k$-shot settings, run the script `run_selectk.sh`
 ```
 bash scripts/run_selectk.sh
@@ -65,8 +65,8 @@ To obtain ICL results based on the select $k$-shot setting, run the script `run_
 bash scripts/run_icl.sh
 ```
 
-### Find Oracle k-shot setting
-To obtain *Oracle* $k$-shot setting on validation set, run the script `run_oracle_k.sh`
+### Find Oracle $k$-shot setting
+To obtain Oracle $k$-shot setting on validation set, run the script `run_oracle_k.sh`
 ```
 bash scripts/run_oracle_k.sh
 ```
