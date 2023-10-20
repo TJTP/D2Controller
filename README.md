@@ -60,13 +60,13 @@ Notice that you should allocate names and directories for datasets and models in
 
 
 ### Obtain ICL results
-To obtain ICL results based on the select k-shot setting, run the script `run_icl.sh`
+To obtain ICL results based on the select $k$-shot setting, run the script `run_icl.sh`
 ```
 bash scripts/run_icl.sh
 ```
 
 ### Find Oracle k-shot setting
-To obtain *Oracle* k-shot setting on validation set, run the script `run_oracle_k.sh`
+To obtain *Oracle* $k$-shot setting on validation set, run the script `run_oracle_k.sh`
 ```
 bash scripts/run_oracle_k.sh
 ```
