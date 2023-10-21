@@ -10,7 +10,7 @@ Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](h
 - Increasing the number of demonstrations does not necessarily improve the model performance
 - The optimal k-shot setting differs depending on specific datasets and models
 
-## Overview
+## Method
 
 <div align="center">
 <img src="figs/D2Controller.png" width="700px">
