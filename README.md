@@ -10,7 +10,9 @@ Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](h
 - Increasing the number of demonstrations does not necessarily improve the model performance
 - The optimal k-shot setting differs depending on specific datasets and models
 
-Based on these analyses, we propose a method named D2Controller, which not only boosts ICL performance but also saves time and space during inference of the LLMs.
+##  Method
+
+Based on the above analyses, we propose a method named D2Controller, which not only boosts ICL performance but also saves time and space during inference of the LLMs.
 
 <div align="center">
 <img src="figs/D2Controller.png" width="700px">
