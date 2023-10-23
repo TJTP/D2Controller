@@ -90,21 +90,25 @@ We will release the code and scripts for GPT-3 later.
 **D2Controller is beneficial to other ICL models**
 <details>
 </details>
+
 ---
 
 **D2Controller can achieve competitive results on a small number of in-context example groups.**
 <details>
 </details>
+
 ---
 
 **IICScore is effective in selecting evaluation examples**
 <details>
 </details>
+
 ---
 
 **Dynamic k v.s. Maximum k**
 <details>
 </details>
+
 ---
 
 ## Citation
