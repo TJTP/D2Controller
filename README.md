@@ -109,7 +109,7 @@ We will release the code and scripts for GPT-3 later.
 <details>
 
 <div align="center">
-<img src="figs/ICL.jpg" width="500px">
+<img src="figs/ICL.jpg" width="400px">
 </div>
 
 </details>
