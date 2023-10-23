@@ -96,6 +96,9 @@ We will release the code and scripts for GPT-3 later.
 | GPT-2 0.3B | Default | 58.1&plusmn;13.1 | 24.1&plusmn;7.4 | 60.6&plusmn;7.2 | 54.2&plusmn;10.6 | 50.6&plusmn;0.4 | 59.6&plusmn;15.8 | 53.4&plusmn;5.3 | 48.7&plusmn;8.5 | 51.3&plusmn;1.7 | 48.6&plusmn;6.4 | 50.9 |
 | GPT-2 0.3B | D2Controller |  74.1&plusmn;9.3 | 31.6&plusmn;8.6 | 60.6&plusmn;7.2 | 53.8&plusmn;7.0 | 67.7&plusmn;11.4 | 57.1&plusmn;9.7 | 53.8&plusmn;4.2 | 48.7&plusmn;8.5 | 48.7&plusmn;2.9 | 48.6&plusmn;6.4 | 54.5 |
 | GPT-2 0.3B | Oracle | 74.1&plusmn;9.3 | 31.6&plusmn;8.6 | 60.6&plusmn;7.2 | 56.0&plusmn;9.9 | 67.7&plusmn;11.4 | 64.5&plusmn;16.0 | 58.6&plusmn;12.8 | 49.4&plusmn;18.4 | 51.3&plusmn;1.7 | 50.0&plusmn;9.2 | 56.4 |
+| GPT-2 0.8B | Default | 71.8&plusmn;12.1 | 37.8&plusmn;6.8 | 63.4&plusmn;6.0 | 71.1&plusmn;15.6 | 80.5&plusmn;11.4 | 65.8&plusmn;11.3 | 59.9&plusmn;12.2 | 65.6&plusmn;17.2 | 53.1&plusmn;3.4 | 37.1&plusmn;14.5 | 60.6 |
+| GPT-2 0.8B | D2Controller | 65.9&plusmn;15.2 | 37.5&plusmn;5.1 | 63.4&plusmn;6.0 | 71.1&plusmn;15.6 | 80.5&plusmn;11.4 | 70.5&plusmn;5.2 | 69.4&plusmn;12.4 | 65.6&plusmn;17.2 | 53.1&plusmn;3.4 | 47.5&plusmn;3.2 | 62.4 |
+| GPT-2 0.8B | Oracle | 71.8&plusmn;12.1 | 39.6&plusmn;5.1 | 63.4&plusmn;6.0 | 71.1&plusmn;15.6 | 80.5&plusmn;11.4 | 74.5&plusmn;8.8 | 69.4&plusmn;12.4 | 65.6&plusmn;17.2 | 53.8&plusmn;4.4 | 49.3&plusmn;3.7 | 63.9 |
 
 </details>
 
