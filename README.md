@@ -86,6 +86,15 @@ bash scripts/run_oracle_k.sh
 ## GPT-3
 We will release the code and scripts for GPT-3 later.
 
+## Result
+**D2Controller is beneficial to other ICL models**
+
+**D2Controller can achieve competitive results on a small number of in-context example groups.**
+
+**IICScore is effective to select evaluation examples**
+
+**Dynamically selecting the number of demonstrations performs better than using the maximum number of demonstrations**
+
 ## Citation
 If you find this helpful, please cite our paper.
 
