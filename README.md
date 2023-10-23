@@ -107,6 +107,11 @@ We will release the code and scripts for GPT-3 later.
 
 **D2Controller can achieve competitive results on a small number of in-context example groups**
 <details>
+
+<div align="center">
+<img src="figs/ICL.jpg" width="700px">
+</div>
+
 </details>
 
 ---
