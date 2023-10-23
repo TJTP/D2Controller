@@ -86,7 +86,7 @@ bash scripts/run_oracle_k.sh
 ## GPT-3
 We will release the code and scripts for GPT-3 later.
 
-## Result
+## Results
 **D2Controller is beneficial to other ICL models**
 <details>
   
