@@ -93,9 +93,9 @@ We will release the code and scripts for GPT-3 later.
 
 | **Model** | **Setting** |**SST-2** | **SST-5** | **DBPedia** | **MR** | **CR** | **MPQA** | **Subj** | **AGNews** | **RTE** | **CB** | **AVG** |
 |-----------|---------|:---------:|:---------:|:----------:|:---------:|:---------:|:---------:|:----------:|:---------:|:---------:|:----------:|:---------:|
-| GPT-2 0.3B | Default | 58.1&plusmn;13.1 | 24.1&plusmn7.4 | 60.6&plusmn7.2 | 54.2&plusmn10.6 | 50.6&plusmn0.4 | 59.6&plusmn15.8 | 53.4&plusmn5.3 | 48.7&plusmn8.5 | 51.3&plusmn1.7 | 48.6&plusmn6.4 | 50.9 |
-| GPT-2 0.3B | D2Controller | 58.1&plusmn13.1 | 24.1&plusmn7.4 | 60.6&plusmn7.2 | 54.2&plusmn10.6 | 50.6&plusmn0.4 | 59.6&plusmn15.8 | 53.4&plusmn5.3 | 48.7&plusmn8.5 | 51.3&plusmn1.7 | 48.6&plusmn6.4 | 50.9 |
-| GPT-2 0.3B | Oracle | 58.1&plusmn13.1 | 24.1&plusmn7.4 | 60.6&plusmn7.2 | 54.2&plusmn10.6 | 50.6&plusmn0.4 | 59.6&plusmn15.8 | 53.4&plusmn5.3 | 48.7&plusmn8.5 | 51.3&plusmn1.7 | 48.6&plusmn6.4 | 50.9 |
+| GPT-2 0.3B | Default | 58.1&plusmn;13.1 | 24.1&plusmn;7.4 | 60.6&plusmn;7.2 | 54.2&plusmn;10.6 | 50.6&plusmn;0.4 | 59.6&plusmn;15.8 | 53.4&plusmn;5.3 | 48.7&plusmn;8.5 | 51.3&plusmn;1.7 | 48.6&plusmn;6.4 | 50.9 |
+| GPT-2 0.3B | D2Controller | 58.1&plusmn;13.1 | 24.1&plusmn;7.4 | 60.6&plusmn;7.2 | 54.2&plusmn;10.6 | 50.6&plusmn;0.4 | 59.6&plusmn;15.8 | 53.4&plusmn;5.3 | 48.7&plusmn;8.5 | 51.3&plusmn;1.7 | 48.6&plusmn;6.4 | 50.9 |
+| GPT-2 0.3B | Oracle | 58.1&plusmn;13.1 | 24.1&plusmn;7.4 | 60.6&plusmn;7.2 | 54.2&plusmn;10.6 | 50.6&plusmn;0.4 | 59.6&plusmn;15.8 | 53.4&plusmn;5.3 | 48.7&plusmn;8.5 | 51.3&plusmn;1.7 | 48.6&plusmn;6.4 | 50.9 |
 
 </details>
 
