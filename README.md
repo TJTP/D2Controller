@@ -108,6 +108,12 @@ We will release the code and scripts for GPT-3 later.
 | Cerebras-GPT | 6.7B | Default | 83.4&plusmn;8.5 | 38.3&plusmn;1.8 | 87.0&plusmn;2.4 | 88.0&plusmn;1.1 | 89.0&plusmn;3.1 | 75.2&plusmn;10.3 | 72.0&plusmn;14.5 | 79.2&plusmn;2.4 | 52.3&plusmn;2.3 | 52.5&plusmn;8.0 | 71.7 |
 | Cerebras-GPT | 6.7B | D2Controller | 82.0&plusmn;11.3 | 39.5&plusmn;3.7 | 87.0&plusmn;2.4 | 86.8&plusmn;1.9 | 90.5&plusmn;0.9 | 83.8&plusmn;3.3 | 79.2&plusmn;12.5 | 80.2&plusmn;1.5 | 52.8&plusmn;2.5 | 57.9&plusmn;7.2 | 74.0 |
 | Cerebras-GPT | 6.7B | Oracle |  88.6&plusmn;2.7 | 43.6&plusmn;1.6 | 87.0&plusmn;2.4 | 88.0&plusmn;1.1 | 90.6&plusmn;2.8 | 83.8&plusmn;3.3 | 79.2&plusmn;12.5 | 80.2&plusmn;1.5 | 53.4&plusmn;1.7 | 57.9&plusmn;3.0 | 75.2 |
+| OPT | 13B | Default | 81.2&plusmn;6.7 | 43.3&plusmn;4.6 | 92.3&plusmn;2.1 | 87.8&plusmn;2.7 | 91.4&plusmn;3.3 | 75.0&plusmn;6.7 | 79.1&plusmn;12.7 | 81.9&plusmn;2.9 | 54.4&plusmn;4.2 | 58.9&plusmn;8.1 | 74.5 |
+| OPT | 13B | D2Controller | 90.2&plusmn;5.8 | 43.3&plusmn;4.6 | 92.3&plusmn;2.1 | 87.8&plusmn;2.7 | 91.3&plusmn;2.1 | 72.0&plusmn;9.4 | 91.6&plusmn;2.0 | 82.6&plusmn;1.5 | 55.8&plusmn;3.1 | 58.9&plusmn;8.1 | 76.6 |
+| OPT | 13B | Oracle |  90.9&plusmn;3.7 | 48.0&plusmn;2.8 | 92.3&plusmn;2.1 | 91.8&plusmn;0.6 | 93.3&plusmn;1.2 | 78.6&plusmn;7.3 | 91.6&plusmn;2.0 | 82.6&plusmn;1.5 | 55.8&plusmn;3.1 | 73.2&plusmn;12.4 | 79.8 |
+| OPT | 30B | Default | 92.3&plusmn;1.3 | 40.9&plusmn;1.8 | 91.7&plusmn;3.7 | 91.8&plusmn;2.1 | 87.3&plusmn;3.3 | 78.8&plusmn;6.2 | 76.1&plusmn;4.9 | 78.7&plusmn;3.6 | 63.0&plusmn;3.1 | 60.0&plusmn;8.2 | 76.1 |
+| OPT | 30B | D2Controller | 92.3&plusmn;1.3 | 42.0&plusmn;2.8 | 91.7&plusmn;3.7 | 93.4&plusmn;1.1 | 87.3&plusmn;2.7 | 85.7&plusmn;3.8 | 83.4&plusmn;8.6 | 76.7&plusmn;4.5 | 61.6&plusmn;2.8 | 60.0&plusmn;8.2 | 77.4 |
+| OPT | 30B | Oracle | 92.8&plusmn;1.6 | 45.2&plusmn;3.1 | 91.7&plusmn;3.7 | 93.4&plusmn;1.1 | 87.7&plusmn;3.9 | 85.7&plusmn;3.8 | 83.4&plusmn;8.6 | 78.7&plusmn;3.6 | 63.0&plusmn;3.1 | 60.0&plusmn;8.2 | 78.1 |
 
 </details>
 
