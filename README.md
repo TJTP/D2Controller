@@ -19,8 +19,7 @@ Based on the above analyses, we propose a method named D2Controller:
 </div>
 
 -  D2Controller not only boosts ICL performance but also saves time and space during inference of the LLMs
--  We apply D2Controller to eight different sizes of LLMs and realize an average of 5.4% relative improvement across ten datasets
--  we also extend D2Controller to previous ICL models and yield competitive results
+-  We apply D2Controller to eight different sizes of LLMs and realize an average of 5.4% relative improvement across ten datasets. We also extend D2Controller to previous ICL models and yield competitive results
 
 
 ## Environment Setup
