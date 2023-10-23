@@ -89,11 +89,21 @@ We will release the code and scripts for GPT-3 later.
 ## Result
 **D2Controller is beneficial to other ICL models**
 <details>
+| **Model** | **GPT-2 0.3B** | **GPT-2 0.8B** | **GPT-2 1.5B** | **Cerebras-GPT 2.7B** | **Cerebras-GPT 6.7B** |
+|-----------|---------|---------|---------|----------|---------|
+| KATE    |  66.7 | 69.4 | 67.7 | 71.6 | 77.6 |
+| +D2Controller      | 68.8 | 70.5 | 69.4 | 74.7 | 77.9 |
+| GlobalE     | 59.5 | 67.7 | 69.8 | - | - |
+| +D2Controller      |  61.5 | 68.7 | 71.6 | - | - |
+| Contextual Calibration     | 59.5 | 64.2 | 63.9 | 67.2 | 72.5 |
+| +D2Controller      | 60.8 | 66.6 | 65.4 | 68.7 | 73.5 |
+| kNN Prompting     | 74.8 | 76.0 | 77.3 | 77.8 | 79.0 |
+| +D2Controller     | 75.8 | 77.1 | 78.2 | 78.1 | 79.7 |
 </details>
 
 ---
 
-**D2Controller can achieve competitive results on a small number of in-context example groups.**
+**D2Controller can achieve competitive results on a small number of in-context example groups**
 <details>
 </details>
 
