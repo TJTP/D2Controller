@@ -87,6 +87,18 @@ bash scripts/run_oracle_k.sh
 We will release the code and scripts for GPT-3 later.
 
 ## Results
+
+**Main Results**
+<details>
+
+| **Model** | **Setting** |**SST-2** | **SST-5** | **DBPedia** | **MR** | **CR** | **MPQA** | **Subj** | **AGNews** | **RTE** | **CB** | **AVG** |
+|-----------|---------|:---------:|:---------:|:----------:|:---------:|:---------:|:---------:|:----------:|:---------:|:---------:|:----------:|:---------:|
+| GPT-2 0.3B | Default | 58.1&plusmn13.1 | 24.1&plusmn7.4 | 60.6&plusmn7.2 | 54.2&plusmn10.6 | 50.6&plusmn0.4 | 59.6&plusmn15.8 | 53.4&plusmn5.3 | 48.7&plusmn8.5 | 51.3&plusmn1.7 | 48.6&plusmn6.4 | 50.9 |
+| GPT-2 0.3B | D2Controller | 58.1&plusmn13.1 | 24.1&plusmn7.4 | 60.6&plusmn7.2 | 54.2&plusmn10.6 | 50.6&plusmn0.4 | 59.6&plusmn15.8 | 53.4&plusmn5.3 | 48.7&plusmn8.5 | 51.3&plusmn1.7 | 48.6&plusmn6.4 | 50.9 |
+| GPT-2 0.3B | Oracle | 58.1&plusmn13.1 | 24.1&plusmn7.4 | 60.6&plusmn7.2 | 54.2&plusmn10.6 | 50.6&plusmn0.4 | 59.6&plusmn15.8 | 53.4&plusmn5.3 | 48.7&plusmn8.5 | 51.3&plusmn1.7 | 48.6&plusmn6.4 | 50.9 |
+
+</details>
+
 **D2Controller is beneficial to other ICL models**
 <details>
   
