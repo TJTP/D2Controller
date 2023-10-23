@@ -130,7 +130,7 @@ We will release the code and scripts for GPT-3 later.
 
 ---
 
-**Dynamic k v.s. Maximum k**
+**Dynamically selecting the number of demonstrations performs better than using the maximum number of demonstrations**
 <details>
 
 | **Model** | **GPT-2 0.3B** | **GPT-2 0.8B** | **GPT-2 1.5B** | **Cerebras-GPT 2.7B** | **Cerebras-GPT 6.7B** |
