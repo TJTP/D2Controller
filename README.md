@@ -12,11 +12,15 @@ Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](h
 
 ##  Method
 
-Based on the above analyses, we propose a method named D2Controller, which not only boosts ICL performance but also saves time and space during inference of the LLMs.
+Based on the above analyses, we propose a method named D2Controller:
 
 <div align="center">
 <img src="figs/D2Controller.png" width="700px">
 </div>
+
+-  D2Controller not only boosts ICL performance but also saves time and space during inference of the LLMs
+-  We apply D2Controller to eight different sizes of LLMs and realize an average of 5.4% relative improvement across ten datasets
+-  we also extend D2Controller to previous ICL models and yield competitive results
 
 
 ## Environment Setup
