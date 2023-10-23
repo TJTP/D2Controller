@@ -91,9 +91,9 @@ We will release the code and scripts for GPT-3 later.
 
 **D2Controller can achieve competitive results on a small number of in-context example groups.**
 
-**IICScore is effective to select evaluation examples**
+**IICScore is effective in selecting evaluation examples**
 
-**Dynamically selecting the number of demonstrations performs better than using the maximum number of demonstrations**
+**Dynamic k vs Maximum k**
 
 ## Citation
 If you find this helpful, please cite our paper.
