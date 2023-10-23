@@ -105,6 +105,9 @@ We will release the code and scripts for GPT-3 later.
 | Cerebras-GPT | 2.7B | Default | 65.5&plusmn;13.8 | 28.4&plusmn;4.3 | 81.8&plusmn;1.4 | 65.1&plusmn;11.2 | 85.8&plusmn;4.2 | 64.2&plusmn;11.6 | 69.3&plusmn;14.4 | 69.5&plusmn;3.2 | 48.1&plusmn;1.1 | 52.5&plusmn;9.5 | 63.0 |
 | Cerebras-GPT | 2.7B | D2Controller | 77.3&plusmn;7.7 | 34.3&plusmn;4.8 | 81.8&plusmn;1.4 | 76.0&plusmn;7.7 | 87.4&plusmn;1.5 | 81.6&plusmn;2.1 | 74.2&plusmn;7.6 | 77.3&plusmn;4.1 | 48.0&plusmn;1.1 | 54.6&plusmn;2.7 | 69.3 |
 | Cerebras-GPT | 2.7B | Oracle |  80.7&plusmn;9.1 | 34.3&plusmn;4.8 | 81.8&plusmn;1.4 | 76.0&plusmn;7.7 | 87.4&plusmn;1.5 | 82.9&plusmn;3.0 | 74.2&plusmn;7.6 | 77.3&plusmn;4.1 | 49.6&plusmn;2.3 | 55.7&plusmn;5.0 | 70.0 |
+| Cerebras-GPT | 6.7B | Default | 83.4&plusmn;8.5 | 38.3&plusmn;1.8 | 87.0&plusmn;2.4 | 88.0&plusmn;1.1 | 89.0&plusmn;3.1 | 75.2&plusmn;10.3 | 72.0&plusmn;14.5 | 79.2&plusmn;2.4 | 52.3&plusmn;2.3 | 52.5&plusmn;8.0 | 71.7 |
+| Cerebras-GPT | 6.7B | D2Controller | 82.0&plusmn;11.3 | 39.5&plusmn;3.7 | 87.0&plusmn;2.4 | 86.8&plusmn;1.9 | 90.5&plusmn;0.9 | 83.8&plusmn;3.3 | 79.2&plusmn;12.5 | 80.2&plusmn;1.5 | 52.8&plusmn;2.5 | 57.9&plusmn;7.2 | 74.0 |
+| Cerebras-GPT | 6.7B | Oracle |  88.6&plusmn;2.7 | 43.6&plusmn;1.6 | 87.0&plusmn;2.4 | 88.0&plusmn;1.1 | 90.6&plusmn;2.8 | 83.8&plusmn;3.3 | 79.2&plusmn;12.5 | 80.2&plusmn;1.5 | 53.4&plusmn;1.7 | 57.9&plusmn;3.0 | 75.2 |
 
 </details>
 
