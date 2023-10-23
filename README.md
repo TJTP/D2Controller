@@ -83,11 +83,6 @@ bash scripts/run_oracle_k.sh
 ## GPT-3
 We will release the code and scripts for GPT-3 later.
 
-##  Results
-<div align="center">
-<img src="figs/main_result.jpg" width="700px">
-</div>
-
 ## Citation
 If you find this helpful, please cite our paper.
 
