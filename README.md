@@ -15,7 +15,7 @@ Code and data for "[Dynamic Demonstrations Controller for In-Context Learning](h
 Based on the above analyses, we propose a method named D2Controller:
 
 <div align="center">
-<img src="figs/D2Controller.png" width="700px">
+<img src="figs/D2control.png" width="700px">
 </div>
 
 -  D2Controller not only boosts ICL performance but also saves time and space during inference of the LLMs
